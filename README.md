@@ -1,1 +1,1 @@
-This is Drew's first git project!
+I will keep all of my coding work related to the Odin Project here.
